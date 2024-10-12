@@ -1,0 +1,1 @@
+add_executable(cof2 main.cpp)

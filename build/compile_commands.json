@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/andyshen/CoF2/build",
+  "command": "g++ -fno-asm -std=c++11 -Wall -g -Og -o src/CMakeFiles/cof2.dir/main.cpp.o -c /home/andyshen/CoF2/src/main.cpp",
+  "file": "/home/andyshen/CoF2/src/main.cpp",
+  "output": "src/CMakeFiles/cof2.dir/main.cpp.o"
+}
+]

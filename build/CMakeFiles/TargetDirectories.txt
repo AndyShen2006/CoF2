@@ -1,0 +1,5 @@
+/home/andyshen/CoF2/build/CMakeFiles/edit_cache.dir
+/home/andyshen/CoF2/build/CMakeFiles/rebuild_cache.dir
+/home/andyshen/CoF2/build/src/CMakeFiles/cof2.dir
+/home/andyshen/CoF2/build/src/CMakeFiles/edit_cache.dir
+/home/andyshen/CoF2/build/src/CMakeFiles/rebuild_cache.dir
